@@ -1,0 +1,15 @@
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\bin\Debug\net6.0\Deliverable 2 - Liam Donelson.exe
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\bin\Debug\net6.0\Deliverable 2 - Liam Donelson.deps.json
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\bin\Debug\net6.0\Deliverable 2 - Liam Donelson.runtimeconfig.json
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\bin\Debug\net6.0\Deliverable 2 - Liam Donelson.dll
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\bin\Debug\net6.0\Deliverable 2 - Liam Donelson.pdb
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\obj\Debug\net6.0\Deliverable 2 - Liam Donelson.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\obj\Debug\net6.0\Deliverable 2 - Liam Donelson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\obj\Debug\net6.0\Deliverable 2 - Liam Donelson.AssemblyInfoInputs.cache
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\obj\Debug\net6.0\Deliverable 2 - Liam Donelson.AssemblyInfo.cs
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\obj\Debug\net6.0\Deliverable 2 - Liam Donelson.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\obj\Debug\net6.0\Deliverable 2 - Liam Donelson.dll
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\obj\Debug\net6.0\refint\Deliverable 2 - Liam Donelson.dll
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\obj\Debug\net6.0\Deliverable 2 - Liam Donelson.pdb
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\obj\Debug\net6.0\Deliverable 2 - Liam Donelson.genruntimeconfig.cache
+C:\Users\Liam\source\repos\Deliverable 2 - Liam Donelson\Deliverable 2 - Liam Donelson\obj\Debug\net6.0\ref\Deliverable 2 - Liam Donelson.dll
